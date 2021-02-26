@@ -1,0 +1,29 @@
+body {
+    background-image: url(img/grass.jpg);
+    background-repeat:repeat;
+    height:100%;
+    width:100%;
+    font-family: "Comic Sans MS", "Comic Sans";
+    margin:0;
+}
+
+
+h1 span{    
+    background-color: white;
+    width:auto;
+}
+
+h1{
+    text-align: center;
+    font-size:3em;
+}
+
+.set img{
+    max-width:95%;
+    margin:auto;
+}
+
+#posts {
+    margin: auto;
+    width:80%;
+}
